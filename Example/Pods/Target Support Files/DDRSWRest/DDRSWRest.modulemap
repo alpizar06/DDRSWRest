@@ -1,0 +1,6 @@
+framework module DDRSWRest {
+  umbrella header "DDRSWRest-umbrella.h"
+
+  export *
+  module * { export * }
+}

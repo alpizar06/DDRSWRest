@@ -1,0 +1,6 @@
+framework module Pods_DDRSWRest_Tests {
+  umbrella header "Pods-DDRSWRest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

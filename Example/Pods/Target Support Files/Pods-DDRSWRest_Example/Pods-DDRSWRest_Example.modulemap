@@ -1,0 +1,6 @@
+framework module Pods_DDRSWRest_Example {
+  umbrella header "Pods-DDRSWRest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
